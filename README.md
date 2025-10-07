@@ -1,3 +1,3 @@
-TypeScript Todo App with React.ts and Tailwind CSS
+TypeScript Todo App with React.ts and Tailwind CSS.
 
 
