@@ -1,3 +1,3 @@
-# React + TypeScript + Vite
+TypeScript Todo App with React.ts and Tailwind CSS
 
 
